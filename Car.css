@@ -1,0 +1,43 @@
+ .u-section-1 {
+  background-image: url("images/Hell..png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 2167px;
+}
+
+.u-section-1 .u-audio-1 {
+  width: 500px;
+  background-image: linear-gradient(#d21d1d, #00d4ff);
+  height: 111px;
+  font-family: "Comic Relief";
+  margin: 2056px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1787px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1369px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1027px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 647px;
+  }
+
+  .u-section-1 .u-audio-1 {
+    width: 340px;
+  }
+}
